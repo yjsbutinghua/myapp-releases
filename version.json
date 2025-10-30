@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "buildNumber": "2",
   "downloadUrl": "https://github.com/yjsbutinghua/myapp-releases/releases/download/v1.0.1/app-release.apk",
-  "releaseNotes": "## 版本更新说明\n\n- 修复了已知的崩溃问题\n- 优化了应用性能\n- 增加了新功能",
+  "releaseNotes": "修复了已知的崩溃问题",
   "minRequiredVersion": "1.0.0",
   "forceUpdate": false
 }
